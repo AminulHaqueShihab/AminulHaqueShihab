@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **Express js**<br><br>- 👨‍💻 All of my projects are available at [https://aminulhaqueshihab.github.io/](https://aminulhaqueshihab.github.io/)<br><br>- 💬 Ask me about **React.js, Next.js, Chakra ui, Typescript, Redux Toolkit**<br><br>- 📫 How to reach me **mdaminul.career@gmail.com**<br><br>- 📄 Know about my experiences [https://aminulhaqueshihab.github.io/](https://aminulhaqueshihab.github.io/)
+- 🌱 I’m currently learning **Express js**<br><br>- 👨‍💻 All of my projects are available at [https://www.aminulhaque.online/](https://www.aminulhaque.online/)<br><br>- 💬 Ask me about **React.js, Next.js, Chakra ui, Typescript, Redux Toolkit**<br><br>- 📫 How to reach me **mdaminul.career@gmail.com**<br><br>- 📄 Know about my experiences [https://aminulhaqueshihab.github.io/](https://aminulhaqueshihab.github.io/)
 
 
 ## 🌐 Socials:
